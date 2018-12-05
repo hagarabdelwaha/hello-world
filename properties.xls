@@ -1,0 +1,1993 @@
+10,Carnell Park - 3 BEDROOM
+11,Carnell Park - DUPLEX
+12,Carnell Park - 2 BEDROOM
+13,Carnell Park - Duplex
+14,Carnell Park - 3 BEDROOM
+15,Carnell Park - DUPLEX
+16,Carnell Park - 2 BEDROOM
+17,Carnell Park - 3 BEDROOM
+18,DELUXE TOWNHOME 2
+19,IvoryHill - Villa Type 1
+20,Fairway Villa
+21,Jade villa ( With Penthouse )
+22,Jade Villa ( Without Penthouse )
+23,Carnell - Townhome
+24,Park Villa
+25,Marina Marassi - Apartment
+26,Marina 2 - 1 Bedroom
+27,Apartment - 3 Bedrooms Unit A
+28,Marina - 3 Bedrooms
+30,The Address - Apartment
+37,CH-M-G01
+38,CH-M-G02
+39,CH-M-G04
+40,CH-M-G03
+42,CH-M-G05
+43,CH-M-G06
+44,CH-M-101
+45,CH-M-102
+47,CH-M-103
+48,CH-M-104
+49,CH-M-105
+50,CH-M-106
+51,CH-M-201
+52,CH-M-202
+54,CH-M-203
+55,CH-M-204
+56,CH-M-301
+57,CH-M-304
+58,CH-J-G01
+59,CH-J-G02
+60,CH-J-G03
+61,CH-J-G04
+62,CH-J-G05
+63,CH-J-G06
+64,CH-J-101
+65,CH-J-102
+66,CH-J-103
+67,CH-J-104
+71,CH-J-105
+72,CH-J-106
+73,CH-J-201
+74,CH-J-202
+75,CH-J-203
+76,CH-J-204
+77,CH-J-301
+79,CH-J-304
+80,CH-Q-G01
+81,CH-Q-G02
+82,CH-Q-201
+83,CH-Q-202
+84,CH-H-G01
+85,CH-H-G02
+86,CH-H-G03
+87,CH-H-04
+88,Blanca - Chalet Q
+89,CH-H-102
+90,CH-H-103
+91,CH-H-104
+92,CH-H-202
+93,CH-H-203
+94,Blanca - Villa Standalone
+96,Blanca - TOWNHOUSE THA 6
+97,TOWNHOUSE THA 6-CO MIRRORED
+98,Duplex G01 - Type 1
+99,Duplex G02 - Type 1
+100,Duplex G03 - Type 1
+101,Duplex G04 - Type 1
+102,Duplex G05 - Type 1
+103,Duplex G06 - Type 1
+104,Duplex G07 - Type 1
+105,Duplex G08 - Type 1
+107,Apartment 201 - Type 1 - 3Bedrooms
+108,Apartment 202 - Type 1 - 3Bedrooms
+109,Apartment 203 - Type 1 - 3Bedrooms
+110,Apartment 204 - Type 1 - 3Bedrooms
+111,Apartment 205 - Type 1 - 3Bedrooms
+113,Apartment 302 - Type 1 - 3Bedrooms
+114,Duplex 301 - Type 1
+117,Apartment 304 - Type 1 - 3Bedrooms
+118,Apartment 305 - Type 1 - 3Bedrooms
+119,Apartment 401 - Type 1 - 3Bedrooms
+120,Apartment 402 - Type 1 - 3Bedrooms
+121,Duplex G01 - Type 2
+122,Duplex G02 - Type 2
+123,Duplex G03 - Type 2
+124,Duplex G04 - Type 2
+125,Duplex G05 - Type
+126,Duplex G06 - Type 2
+127,Duplex G07 - Type 2
+128,Duplex G08 - Type 2
+129,Apartment 201 - Type 2 - 2Bedrooms
+131,Apartment 202 - Type 2 - 2Bedrooms
+132,Apartment 203 - Type 2 - 2Bedrooms
+133,Apartment 204 - Type 2 - 2Bedrooms
+134,Apartment 205 - Type 2 - 2Bedrooms
+135,Apartment 206 - Type 2 - 2Bedrooms
+136,Apartment 207 - Type 2 - 2Bedrooms
+138,Apartment 208 - Type 2 - 2Bedrooms
+140,Duplex 301 - Type 2
+141,Apartment 204 - Type 2 - 2Bedrooms
+142,Apartment 205 - Type 2 - 2Bedrooms
+143,Apartment 302- Type 2 - 3Bedrooms
+145,Apartment 304 - Type 2 - 3Bedrooms
+146,Apartment 305 - Type 2 - 3Bedrooms
+147,Duplex 306 - Type 2
+148,Apartment 401 - Type 2 - 3Bedrooms
+149,Apartment 402 - Type 2 - 3Bedrooms
+150,Apartment 403 - Type 2 - 3Bedrooms
+151,Apartment 404 - Type 2 - 3Bedrooms
+152,Apartment G01 - Type 3 - 3Bedrooms
+153,Apartment G02 - Type 3 - 3Bedrooms
+154,Apartment G03 - Type 3 - 3Bedrooms
+155,Apartment 101 - Type 3 - 3Bedrooms
+156,Apartment 102 - Type 3 - 3Bedrooms
+157,Apartment 103 - Type 3- 3Bedrooms
+160,Apartment 104 - Type 3 - 2Bedrooms
+161,Apartment 105 - Type 3 - 3Bedrooms
+162,Apartment 201 - Type 3 - 3Bedrooms
+163,Apartment 202 - Type 3 - 3Bedrooms
+164,Apartment 203 - Type 3 - 3Bedrooms
+165,Apartment 204 - Type 3 - 2Bedrooms
+166,Apartment 205 - Type 3 - 3Bedrooms
+167,Apartment 301 - Type 3 - 4Bedrooms
+168,Apartment 302 - Type 3 - 4Bedrooms
+170,Apartment 304 - Type 3 - 3Bedrooms
+171,Penthouse 401 - Type 3 - 3Bedrooms
+172,Penthouse 402 - Type 3 - 3Bedrooms
+173,Apartment 403 - Type 3 - 2Bedrooms
+174,Apartment 404 - Type 3 - 3Bedrooms
+175,Apartment - Type 1 - 3Bedrooms - Ground - Left Corner
+176,DELUXE -  Type 1 - 3Bedrooms - Ground
+177,Apartment - Type 1 - 3Bedrooms - Ground - Right Corner
+178,Apartment - Type 1 - 3Bedrooms - Right Corner
+179,Apartment - Type 1 - 3Bedrooms - Left Corner
+180,Apartment - Type 1 - 2Bedrooms - Middle
+181,Apartment - Type 1 - 2Bedrooms - Middle
+186,Villa 18
+187,Villa 18 With Garden
+188,Villa 18 With Penthouse
+189,Villa 2
+190,Levana - V2
+191,Levana - V 6
+192,Twin Villas ( Left )
+193,Twin Villas ( Right )
+194,Twin Villas With Penthouse ( Left )
+195,Twin Villas With Penthouse ( Right )
+196,Villa 16 With Penthouse
+197,Villa V6 With Garden
+198,Apartment Type 16
+199,Apartment Type 15
+200,Apartment Type 17
+201,Apartment Type 18
+202,Apartment Type 19
+203,Apartment Type 20
+204,Apartment Type 21
+205,Apartment Type 22
+206,Apartment Type 23
+207,Apartment Type 24
+208,Apartment Type 26
+209,Apartment Type 25
+210,Apartment Type 27
+211,Apartment Type 28.1
+212,Apartment Type 28.2
+213,Apartment Type 28.3
+214,Apartment Type 28.4
+215,Apartment Type 28.5
+216,Apartment Type 28.6
+217,Apartment Type 28.7
+218,Townhouse Santa Barbara TH8
+220,Santa Barbara Four Unit Townhouse-1
+222,Santa Barbara Four Unit Townhouse-3
+223,Townhouse Santa Barbara TH7
+224,Townhouse Tuscan TH8
+225,Townhouse Tuscan TH7
+226,Tuscan Four Unit Townhouse-4
+227,Santa Barbara Six Unit Townhouse-1
+228,Santa Barbara Six Unit Townhouse-2
+230,Santa Barbara Six Unit Townhouse-4
+231,Santa Barbara Six Unit Townhouse-5
+232,Santa Barbara Six Unit Townhouse 3
+233,Santa Barbara Six Unit Townhouse-6
+234,Tuscan Six Unit Townhouse-1
+235,Tuscan Six Unit Townhouse-2
+236,Tuscan Six Unit Townhouse-3
+237,Tuscan Six Unit Townhouse-4
+238,Tuscan Six Unit Townhouse-5
+239,Tuscan Six Unit Townhouse-6
+240,Santa Barbara Villa 20
+241,Mivida Springs - Villa
+242,Twinhouse Italia ( Right ) TH6
+243,Twinhouse Italia ( Left ) TH6
+244,Gardens - Townhouse TH6
+245,Twinhouse Tuscan ( Left )
+246,I-Villa ( Right )
+247,I-Villa ( Left )
+248,Villa A
+249,Villa AR
+250,Villa B
+251,Villa C
+252,Villa D ( Deluxe Villa )
+253,Palace
+254,Royal Palace
+255,Townhouse ( Right )
+256,Townhouse ( Middle )
+257,Townhouse ( left )
+258,Twinhouse A
+259,Twinhouse B
+260,Townhouse Regular
+261,I-Villa A Garden Regular
+262,I-Villa A Roof  Regular
+263,I-Villa B Garden Regular
+264,I-Villa B Roof Regular
+265,Grand Deluxe A ( Corner )
+266,Deluxe A Reg
+267,Deluxe A ( Backyard )
+268,Cozy A Regular
+269,Cozy A ( Middle )
+270,Penthouse A Regular
+271,Townhouse Regular
+272,Townhouse Corner
+273,Stand Alone
+274,I-Villa A Garden Regular
+275,I-Villa A Roof Regular
+276,I-Villa A Garden Corner
+277,I-Villa A Roof Corner
+278,I-Villa B Garden Regular
+279,I-Villa B Roof Regular
+280,I-Villa B Garden Corner
+281,I-Villa B Roof Corner
+282,Marina - 2 Bedrooms
+283,Townhouse Italian
+284,Townhouse Tuscan
+285,Villa Tuscan
+286,Villa Santa Barbara
+287,Villa Mivida Tuscan
+288,Crescent - 3 Bedrooms
+289,Crescent - 3 Bedrooms
+290,Crescent 2 - 3 Bedrooms
+291,Crescent 2 - 3 Bedrooms
+293,Villa 21 Santa Barbara
+294,Villa 21 Tuscan
+295,Villa 22A
+296,Villa 22A
+297,Villa 22B Tuscan
+298,mivida - the views
+299,mivida - the views
+300,Villa 23B Santa Barbara
+301,Villa 23B Tuscan
+303,The Fourteen 2 - 3 Bedrooms
+304,The Fourteen 1 - 3 Bedrooms
+305,The Fourteen 2 - Duplex
+316,Villa V5 - SC
+317,Villa V5 - SB
+324,Building 6 - Unit 43
+325,Building 6 - Unit 44
+326,Building 8 - Unit 22
+327,Building 8 - Unit 23
+328,Building 8 - Unit 34
+329,Building 8 - Unit 42
+330,Building 8 - Unit 33
+331,Building 8 - Unit 43
+332,Building 8 - Uuit 44
+333,Building 11 - Unit 41
+335,Building 11 - Unit 42
+336,Building 11 - Unit 02
+337,Building 11 - Unit 43
+338,Building 10 - Unit 43
+339,Building 10 - Unit 01
+340,Building 12 - Unit 36
+341,Building 12 - Unit 42
+342,Building 12 - Unit 43
+343,Building 12 - Unit 44
+344,Building 14 - Unit 01
+345,Building 14 - Unit 04
+346,Building 14 - Unit 43
+347,Building 15 - Unit 01
+348,Building 15 - Unit 05
+349,Building 15 - Unit 11
+350,Building 15 - Unit 43
+351,Building 16 - Unit 01
+352,Building 16 - Unit 14
+353,Building 16 - Unit 35
+354,Building 16 - Unit 04
+355,Building 16 - Unit  42
+356,Building 16 - Unit 43
+357,Building 17 - Unit 01
+358,Building 17 - Unit 04
+359,Building 17 - Unit 42
+360,Building 17 - Unit 43
+361,Building 18 - Unit 02
+362,Building 18 - Unit 04
+363,Building 18 - Unit 42
+364,Building 18 - Unit 44
+365,Building 18 - Unit 43
+366,Building 19 - Unit 15
+367,Building 19 - Unit 22
+368,Building 19 - Unit 23
+369,Building 19 - Unit 35
+370,Building 19 - Unit 32
+371,Building 19 - Unit 44
+372,Building 19 - Unit 42
+373,Building 19 - Unit 43
+374,Building 19 - Unit 46
+375,Lake View - Apartment
+377,Lake View - Apartment
+378,Lake View - Apartment
+380,El Patio Twinhouse
+381,El Patio Standalone Villa
+382,El Patio Townhouse
+384,El Patio Apartment Type A
+385,El Patio 7 -  Penthouse
+386,El Patio Penthouse Type A
+387,El Patio 7 - Penthouse Type A
+388,EL PATIO Quarter
+389,El Patio Twinhouse
+390,El Patio Twinhouse
+391,El Patio Separate
+392,El Patio Separate
+393,El Patio Townhouse
+394,El Patio Townhouse
+395,La Vista Gardens - Chalet Ground
+396,La Vista Gardens -  Chalet First
+397,La Vista Garden - Chalet Ground
+398,La Vista Gardens -  Chalet First
+399,La Vista Gardens -  Chalet First
+400,La Vista Topaz - Chalet First
+401,La Vista Gardens -  Chalet First
+402,La Vista Topaz - Chalet First
+403,La Vista Topaz - Chalet Ground
+404,La Vista Gardens - Twinhouse
+405,La Vista Chalet
+406,La Vista Chalet Ground
+407,La Vista Bay -  Chalet Penthouse
+408,La Vista Chalet + Garden
+409,La Vista Chalet First Floor
+410,La Vista Chalet First Floor
+411,La Vista Chalet First Floor
+412,La Vista Chalet First Floor
+413,La Vista Villa
+414,La Vista Villa
+417,Villa 3 - One Floor
+418,Villa 4 - Two Floors
+419,Standalone Chalet Garden
+421,Standalone Chalet First Floor
+422,Standalone Chalet Ground+Garden
+423,Premium Chalet Garden
+424,Premium Chalet First Floor + Roof
+425,Apartment - 24
+426,Apartment - 21
+427,Duplex - 02
+428,Duplex - 01
+429,Duplex - 03
+430,Duplex - 04
+431,Apartment - 21
+432,Apartment - 22
+433,Apartment - 23
+434,Apartment - 24
+435,Penthouse - 31
+436,Penthouse
+437,Office - Building 8
+438,Office - Building 09
+439,Office - Building 10
+440,Townhouse Corner Right
+441,Townhouse Corner Left
+442,Townhouse Middle Right
+443,Townhouse Middle Left
+444,Townhouse Corner Right
+445,Townhouse Corner Left
+446,Townhouse Middle Right
+447,Villette - Townhouse Middle Left
+448,Townhouse Corner Right
+449,Townhouse Middle Right
+450,Townhouse Middle Left
+451,Townhouse Middle Left
+452,Large Villa - Phase V
+453,Large Villa + Basement
+454,Large Villa
+455,Medium Villa
+456,Villette - Medium Villa
+457,Medium Villa
+458,Standard Villa
+459,Standard Villa
+460,Standard Villa
+461,Twinhouse Corner Right
+462,Twinhouse Corner Left
+463,Twinhouse Corner Right
+464,Twinhouse Corner Left
+465,Twinhouse Corner Right
+466,Twinhouse - Phase V
+467,Apartment - 3 Bedrooms
+468,Mid Apartment
+469,Apartment - 3 Bedrooms
+470,Apartment - 3 Bedrooms
+471,Apartment - 3 Bedrooms
+472,Apartment - 3 Bedrooms
+473,Apartment - 3 Bedrooms
+476,Apartment - 3 Bedrooms
+479,Parks - Duplex
+480,Garden Duplex
+481,Penthouse ( Duplex + Roof )
+482,Penthouse ( Duplex + Roof )
+483,Penthouse ( Duplex + Roof )
+484,Penthouse ( Duplex + Roof )
+492,Apartment - 3 Bedrooms
+493,Apartment - 3 Bedrooms
+494,Apartment - 3 Bedrooms + Family Living
+495,Apartment - 3 Bedrooms
+500,Apartment - 2 Bedrooms
+501,Apartment - 3 Bedrooms
+502,Apartment - 3 Bedrooms
+503,Apartment - 3 Bedrooms + Roof
+504,Apartment - 3 Bedrooms
+505,Apartment - 3 Bedrooms
+506,Apartment - 3 Bedrooms
+507,Apartment - 3 Bedrooms
+508,Apartment - 2 Bedrooms
+511,The Courtyards - 3 Bedrooms
+513,Apartment - 2 Bedrooms
+514,Apartment - 3 Bedrooms
+515,Apartment - 3 Bedrooms
+516,Carnell Park - Apartment
+517,Carnell Park - Apartment
+518,Ivory - Townhouse
+519,Ivory - Deluxe Townhouse
+520,Ivoryhill - Villa V90
+521,Jasper - 1 Bedroom
+522,Jasper - 1 Bedroom
+523,Studio - 1 Bedroom
+524,Jasper - 2 Bedrooms
+525,Jasper - 2 Bedrooms
+526,Jasper - Apartment  3 Bedrooms
+527,Jasper - Duplex
+528,Jasper - Duplex
+530,Jasper - Duplex
+531,Jasper - Duplex
+532,Jasper - 4 Bedrooms
+533,Jasper - 3 Bedrooms
+534,Jasper - Duplex
+535,Jasper - Duplex
+536,Jasperwood - Apartment 1 Bedroom
+537,Jasper Hill - Studio
+538,Studio - 1 Bedroom
+539,Jasperwood - Apartment 2 Bedrooms
+540,Jasper - 2 Bedrooms
+541,Jasper - Apartment 4 Bedrooms
+542,Jasper - 3 Bedrooms
+547,Bay West Villa
+548,Bay West Villa
+549,Lodge Villa Type - 1A
+550,Wadi Jebal - Lodge Villa
+551,Lodge Villa Type - 1B
+552,Wadi Jebal - Patio Villa
+555,Soma Breeze - Apartment
+558,Soma Breeze - Apartment
+568,Soma Breeze - Apartment
+569,Studio - 1 Bedroom
+570,Apartment - 1 Bedrooms (A)
+571,Apartment - 1 Bedroom (B)
+572,Apartment - 1 Bedroom
+573,Apartment - 2 Bedrooms (A)
+574,Apartment - 2 Bedrooms (B)
+575,Apartment - 2 Bedrooms (C)
+576,Apartment - 2 Bedrooms (D)
+577,Apartment - 2 Bedrooms (E)
+578,Apartment - 2 Bedrooms (F)
+579,Apartment - 2 Bedrooms (G)
+580,Apartment - 2 Bedrooms (H)
+582,Apartment - 2 Bedrooms (I)
+597,Apartment - 2 Bedrooms (J)
+598,Apartment - 2 Bedrooms
+599,Apartment - 3 Bedrooms (A)
+600,Apartment - 3 Bedrooms (B)
+601,Apartment - 3 Bedrooms
+602,Apartment - 2 Bedrooms (E)
+603,Soleya - Apartment E
+604,Apartment - 2 Bedrooms (E)
+605,Apartment - 2 Bedrooms (F)
+606,Apartment - 2 Bedrooms (E)
+607,Apartment - 2 Bedrooms (F)
+608,Apartment - 2 Bedrooms (F)
+609,Apartment - 2 Bedrooms (F)
+610,Penthouse - 2 Bedrooms (E)
+611,Penthouse - 2 Bedrooms (F)
+612,Apartment - 3 Bedrooms (A)
+613,Apartment - 3 Bedrooms (A)
+614,Penthouse - 3 Bedrooms (A)
+615,Penthouse - 2 Bedrooms (A)
+616,Penthouse - 3 Bedrooms (A)
+617,Apartment - 3 Bedrooms (B)
+618,Apartment - 3 Bedrooms (B)
+619,Soleya - Apartment B&D
+620,Apartment - 3 Bedrooms(B)
+621,Penthouse - 3 Bedrooms (B)
+622,Penthouse - 3 Bedrooms (B)
+623,Penthouse - 3 Bedrooms (B)
+624,Apartment - 3 Bedrooms (D) + Garden
+625,Apartment - 3 Bedrooms (D) + Garden
+626,Apartment - 3 Bedrooms (D)
+627,Apartment - 3 Bedrooms (D)
+628,Penthouse - 3 Bedrooms (D)
+629,Penthouse - 3 Bedrooms (D)
+630,Penthouse - 3 Bedrooms (D)
+631,Penthouse - 3 Bedrooms (D)
+632,Apartment - 3 Bedrooms (F)
+633,Apartment - 3 Bedrooms (F)
+634,Apartment - 3 Bedrooms (F)
+635,Apartment - 3 Bedrooms (F)
+636,Apartment - 3 Bedrooms (F)
+637,Penthouse - 3 Bedrooms (F)
+638,Penthouse - 3 Bedrooms (F)
+639,Penthouse - 3 Bedrooms (F)
+640,Villa
+641,Villa
+645,Duplex - 3 Bedrooms ( Ground )
+646,Soleya - Villa Type 1
+647,Standalone Villa Type 2
+648,Twinhouse Type 1
+649,Townhouse Type G
+650,Townhouse Type H
+651,Townhouse Type J
+652,Allegria - Villa Type CV
+654,Villa - Type DV
+655,Villa - Type DV
+656,Verona  - Villa
+657,Apartment - 3 Bedrooms
+658,Apartment - 3 Bedrooms
+659,Phase IX - 3 Bedrooms
+660,Apartment - 3 Bedrooms
+661,Phase IX - 3 Bedrooms
+662,Apartment - 3 Bedrooms + Family Living
+663,Apartment - 3 Bedrooms + Family Living
+669,Garden Duplex
+670,Garden Duplex
+671,Garden Duplex
+672,Penthouse ( Duplex + Roof )
+673,Forty 1 - Apartment 3 Bedrooms
+676,Forty 1 - 3 Bedrooms
+677,Forty 1 - 3 Bedrooms
+679,Forty 1 - 3 Bedrooms
+685,Forty 1 - 3 Bedrooms
+686,Forty 1 - 3 Bedrooms
+688,Duplex - 3 Bedrooms
+689,Apartment - 3 Bedrooms
+690,Apartment - 2 Bedrooms
+691,Apartment - 3 Bedrooms
+692,Apartment - 3 Bedrooms
+693,Apartment - 3 Bedrooms
+694,Apartment - 3 Bedrooms
+695,Apartment - 4 Bedrooms
+696,Apartment - 3 Bedrooms
+697,Apartment - 3 Bedrooms
+698,Apartment - 3 Bedrooms
+699,Apartment - 3 Bedrooms + Garden
+700,Forty 1 - 3 Bedrooms
+701,Apartment - 3 Bedrooms
+702,Apartment - 3 Bedrooms + Roof
+703,The Strip Shop
+704,The Strip Shop
+705,The Strip Shop
+706,The Strip Shop
+707,The Strip Shop
+708,The Strip Shop
+709,The Strip Shop
+710,The Strip Shop
+711,The Strip Shop
+712,The Strip Shop
+713,The Strip Shop
+714,The Strip Shop
+715,The Strip Shop
+716,The Strip Shop
+717,The Strip Shop
+718,Townhouse Middle - Phase V
+719,Townhouse Middle Left
+720,Townhouse Middle Left
+721,Townhouse Middle Left
+722,Townhouse Middle Right
+723,Townhouse Middle Right
+724,Townhouse Middle Right
+725,Townhouse Middle Right
+726,Townhouse Middle Right
+727,Townhouse Middle Right
+728,Standard Villa + Basement
+729,Standard Villa + Basement
+730,Standard Villa
+731,Standard Villa + Basement
+732,Standard Villa + Basement
+733,Medium Villa
+734,Medium Villa + Basement
+735,Medium Villa + Basement
+736,Medium Villa + Basement
+737,Medium Villa + Basement
+738,Townhouse Middle Left
+739,Townhouse Middle Left
+740,Townhouse Middle Left
+741,Townhouse Middle Left
+742,Townhouse Corner - Phase V
+743,Townhouse Middle Right
+744,Townhouse Middle Right
+745,Townhouse Middle Right
+746,Townhouse Middle Right
+747,Villette - Townhouse Middle Right
+748,Standard Villa
+749,Standard Villa
+750,Standard Villa
+751,Standard Villa
+752,Standard Villa
+753,Standard Villa + Basement
+754,Standard Villa + Basement
+755,Standard Villa + Basement
+756,Standard Villa + Basement
+757,Standard Villa + Basement
+758,Medium Villa
+759,Medium Villa
+760,Medium Villa
+761,Medium Villa
+762,Medium Villa
+763,Medium Villa - Phase V
+764,Medium Villa + Basement
+765,Medium Villa + Basement
+766,Medium Villa + Basement
+767,Medium Villa + Basement
+768,Twin Villas
+769,Apartment - 1 Bedrooms
+770,Apartment - 2 Bedrooms
+771,Villa - Type Arabesque
+772,Villa - Type Arabesque
+773,Villa - Type Mediterranean
+774,Villa - Type Mediterranean
+775,Villa - Type Contemporary
+776,Villa - Type Contemporary
+777,Villa - Type Contemporary
+783,Apartment - 1 Bedroom
+785,Apartment - 1 Bedroom
+786,Apartment - 1 Bedroom
+792,Apartment - 1 Bedroom
+803,Apartment - 1 Bedroom
+811,Residences - 2 Bedrooms
+826,Residence - 3 Bedrooms
+827,Residences - 3 Bedrooms
+834,EL Peral Villa
+835,El Morera Villa
+837,Primula Villa
+839,H1 Villa
+840,K Villa
+841,C4 Twinhouse - Type A
+845,Masionette Townhouse Type 2
+847,Apartment - 2 Bedrooms Unit A
+848,Apartment - 3 Bedrooms Unit B
+849,Villa
+850,Villa
+851,Villa
+852,Villa
+853,Villa
+858,Villa A
+859,Villa A
+860,Villa A
+861,Villa A
+862,Apartment - 3 Bedrooms
+863,Penthouse - 3 Bedrooms
+886,Apartment - 3 Bedrooms
+887,Apartment - 3 Bedrooms
+889,Apartment - 3 Bedrooms
+890,Apartment - 3 Bedrooms
+891,Apartment - 3 Bedrooms
+892,Apartment - 3 Bedrooms
+893,Apartment - 2 Bedrooms
+894,Villa Type 6
+895,Villa - Type 4
+896,Villa - Type 4
+898,Villa VS
+899,Villa VS
+901,Villa V2
+902,Standalone Villa
+903,Standalone Villa
+905,Villa Type 19 - Santa Barbara
+906,Twinhouse
+907,Apartment - 3 Bedrooms
+909,Villa
+910,Villa
+911,Townhouse TH5
+912,Villa - Type BV
+914,Apartment - 3 Bedrooms Unit B
+916,Victoria - Villa Type A
+920,Celesta - Villa V18
+921,Celesta - Villa V16
+923,Celesta - TOWNHOUSE
+924,Levana- Villa V18
+925,La Vista Chalet First Floor
+927,Senior Chalet
+929,Verona  - Villa
+931,Apartment - 2 Bedrooms
+933,Joubal Lagoon - Villa
+934,Arezzo - Villa
+936,i Villa - Type B
+937,VILLA TYPE 7
+938,Townhouse Corner
+939,Chalet - 2 Bedrooms
+940,Chalet - 2 Bedrooms
+941,Chalet - 2 Bedrooms
+942,Chalet - 2 Bedrooms
+943,Chalet - 2 Bedrooms
+944,Chalet - 3 Bedrooms
+945,Chalet - 2 Bedrooms
+946,Chalet - 3 Bedrooms
+947,Chalet - 2 Bedrooms
+948,Chalet - 2 Bedrooms
+949,Chalet - 2 Bedrooms
+950,Chalet - 2 Bedrooms
+951,Chalet - 2 Bedrooms
+952,Chalet - 2 Bedrooms
+953,Chalet - 3 Bedrooms
+954,Chalet - 3 Bedrooms
+955,Chalet 4 Bedrooms + Roof
+956,Chalet 4 Bedrooms + Roof
+957,Chalet 3 Bedrooms + Garden
+958,Chalet 3 Bedrooms + Garden
+959,La Vista Cascada - Chalet First
+960,La Vista Cascada  - Chalet First
+961,La Vista Cascada  - Chalet Ground
+962,La Vista Cascada  - Chalet Ground
+963,Duplex - 3 Bedrooms
+965,Duplex - 3 Bedrooms
+966,Masionette Townhouse
+967,Masionette Townhouse
+968,Masionette Townhouse
+970,Villa V1 - One Floor
+972,Prime Chalet - 3 Bedrooms
+973,Swan Lake - Standard Chalet - Ground Floor
+974,Apartment - 2 Bedrooms
+975,Apartment - 2 Bedrooms + Garden
+976,Apartment - 3 Bedrooms
+977,Apartment - 3 Bedrooms + Garden
+979,Apartment - 4 Bedrooms
+981,Apartment - 4 Bedrooms + Roof
+982,Apartment - 2 Bedrooms + Garden
+983,Standalone Villa
+984,Twinhouse
+985,Townhouse Type 1
+986,Townhouse Type 2
+989,Apartment - 2 Bedrooms
+990,Apartment - 3 Bedrooms
+991,Westown - Townhouse
+992,Twin Villa
+993,Quarter Villa
+994,Standalone Villa
+995,Standalone Villa
+996,Quarter Villa
+997,Quarter Villa
+998,Twin Villa
+999,Villa + Basment
+1001,Villa - First Row
+1002,Villa - First Row
+1015,i Villa
+1016,Chalet + Penthouse
+1017,Small Chalet
+1018,Large Chalet
+1019,Townhouse
+1023,Penthouse
+1024,Westown - Duplex
+1027,Westown - 3 Bedrooms + Roof
+1028,Westown - 3 Bedrooms + Roof
+1029,i Villa - Type A
+1030,RIVIERA GROUND
+1032,RIVIERA FIRST
+1033,RIVIERA SECOND
+1034,GRIMALDI GROUND
+1035,GRIMALDI FIRST
+1036,GRIMALDI SECOND
+1037,RAINIER GROUND
+1038,RAINIER FIRST
+1039,RAINIER SECOND
+1040,MAISON A - GROUND
+1041,MAISON A - FIRST
+1042,MAISON A - SECOND
+1043,MAISON B - GROUND
+1044,MAISON B - FIRST
+1045,MAISON B - SECOND
+1046,Stand Alone - Type 19
+1047,Stand Alone - Type 19
+1048,Stand Alone - Type 19
+1049,Fanadir - Villa 1 Floor
+1050,FANADIR - VILLA Alchemy
+1053,Stand Alone - Type B
+1056,Twin Villas
+1057,Joubal - Twin Villas
+1058,Joubal - Stand alone
+1061,Sabina Villa
+1063,Tawila - Townhouse Middle
+1064,Tawila - Townhouse Corner
+1065,Tawila - Villa Type E
+1066,Tawila  - Villa Type B
+1067,Tawila - Villa Type C
+1068,Um Jamar - Villa SB
+1069,Waterside - 2 Bedrooms Ground
+1070,Waterside - 2 Bedrooms Roof
+1071,Waterside - 3 Bedrooms Ground
+1072,Catania - Apartment
+1073,iVilla Ground -  Corner
+1074,Large Villa
+1075,Large Vills
+1076,Large Villa
+1080,IL MONTE - Chalet
+1081,IL MONTE - Chalet
+1082,IL MONTE - Twinhouse
+1084,IL MONTE - Townhouse
+1085,IL MONTE - Villa
+1086,IL MONTE - Chalet
+1087,IL MONTE - Chalet Second
+1088,IL MONTE - Chalet Second
+1090,Villa - Type 5
+1091,Mangroovy - 3 Bedrooms
+1092,Mangroovy - Apartment FF
+1093,Mangroovy - Apartment GF
+1094,Mangroovy - 4 Bedrooms
+1095,Mangroovy - Townhouse
+1097,Villa Waterfront
+1098,Fouka Bay - Townhouse
+1099,Chalet - Ground
+1100,Chalet - Typical
+1101,Chalet - Roof Suite
+1102,PentHouse
+1103,Chalet ground
+1104,Chalet Typical
+1105,Swan Lake - Duplex + Roof
+1106,Swan Lake - 1 Bedroom Ground
+1107,Swan Lake - 3 Bedrooms Second
+1108,Swan Lake - 3 Bedrooms Ground
+1109,Swan Lake - 3 Bedrooms Second
+1110,Swan Lake - 2 Bedrooms Second
+1113,Swan Lake - Penthouse 3 Bedrooms
+1116,Veneto - Townhouse
+1118,Zayed Dunes - Townhouse Corner
+1119,Soma Breeze - Cabin
+1120,Villa
+1121,Reef Villa - Terraces
+1122,Villa Lesan El Wozara
+1123,Villa Santa Barbara
+1125,Apartment 3 Bedrooms
+1126,Apartment 3 Bedrooms
+1127,Veneto - Villa
+1128,Veneto - Villa
+1130,Marassi The Adress - Studio
+1131,The Address - 1 Bedrooms
+1137,Verona  - Villa Type B
+1138,Villa - V22
+1139,Villa - V22
+1140,The Fourteen 1 - Duplex
+1141,THE FOURTEEN 3 - 3 BEDROOMS
+1142,THE FOURTEEN 3 - 3 BEDROOMS
+1144,THE FOURTEEN 3 - Duplex
+1145,THE FOURTEEN 3 - Penthouse
+1146,THE FOURTEEN 3 - 2 BEDROOMS
+1147,Waterside - 2 Bedrooms Roof
+1148,Waterside - 2 Bedrooms Fiirst
+1149,Waterside - 1 Bedroom Ground
+1150,Waterside - 1 Bedroom Roof
+1151,Um Jamar - Villa SB
+1152,FANADIR - Villa SB
+1153,FANADIR - Villa
+1154,Sabina Villa - Lagoon
+1155,Sabina Villa - Lagoon & Park
+1156,Tawila - Villa Type A
+1157,Tawila - Villa Type D
+1158,Verona - Villa Type A
+1159,One 16 - Duplex
+1160,One 16 - Apartment
+1161,One 16 - Apartment
+1162,Lake View - Apartment
+1163,Lake View - Apartment
+1164,Lake View - Penthouse
+1165,Caesar - villa
+1166,Lake View - Penthouse
+1167,Caesar - villa
+1168,Caesar - Villa
+1169,Caesar - Villa
+1170,Caesar - Villa
+1171,Caesar - Standalone Chalet
+1173,Hyde park - Villa
+1178,One 16 - Penthouse
+1179,One 16 - Apartment
+1180,One 16 - Penthouse
+1181,Celesta - Villa
+1182,Mivida - parkside villas
+1183,mivida - the views
+1184,mivida - villa
+1185,mivida - villa
+1186,mivida - villa
+1189,Hyde Park - Apartment
+1190,Park View - Apartment
+1191,Jubail - Villa
+1192,Amwaj - Villa
+1196,PK1- Villa
+1200,Ivoryhill - Villa Type 2
+1201,WESTRIDGE - Townhouse
+1202,WESTRIDGE - Townhouse
+1204,WESTRIDGE - Townhouse
+1205,WESTRIDGE - Apartment
+1206,WESTRIDGE - Apartment
+1207,WESTRIDGE - Apartment
+1208,WESTRIDGE - Apartment
+1209,WESTRIDGE - Duplex
+1210,WESTRIDGE - Duplex
+1211,WESTRIDGE - Duplex
+1212,WESTRIDGE - Duplex
+1213,WESTRIGDE - Townhouse
+1214,WESTRIDGE - Villa
+1215,WESTRIDGE - villa
+1216,October Plaza - Apartment+Garden
+1217,October Plaza - Apartment
+1218,October Plaza - Apartment
+1219,October Plaza - Penthouse
+1220,October plaza - Apartment+garden
+1221,October Plaza - Penthouse
+1222,WATERSIDE - 2 BEDROOMS
+1223,Waterside - 3 Bedrooms
+1224,Telal - Twinhouse
+1225,New Marina - Apartment
+1226,SARAI - Villa A
+1227,SARAI - Villa B
+1228,SARAI - Apartment C2
+1229,SARAI - Apartment C1
+1230,SARAI - Apartment C1
+1231,SARAI - Apartment C1
+1232,SARAI - Apartment C2
+1233,Palm Hills New Cairo - Apartment
+1234,Palm Hills New Cairo - Apartment
+1235,Palm Hills New Cairo - Apartment
+1236,Palm Hills New Cairo - Apartment
+1237,Palm Hills New Cairo - Apartment
+1238,Palm Hills New Cairo - Apartment
+1239,Palm Hills New Cairo - Apartment
+1240,Palm Hills New Cairo - Apartment
+1241,Palm Hills New Cairo - Apartment
+1242,Palm Hills New Cairo - Apartment
+1243,Palm Hills New Cairo - Apartment
+1244,Hyde Park - Townhouse
+1245,Reef - Villa
+1246,Abusoma Reef - Chalet Ground
+1247,South Golf - Villa
+1248,Catania - Chalet Ground
+1249,Swan Lake - Villa
+1250,Hyde Park - Townhouse
+1251,Quarter Villa
+1252,Twin Villa
+1254,Royal Meadows - Twinhouse
+1255,Mountain View - Villa
+1258,Pyramid Hills  - Apartment
+1260,Pyramid Hills - Apartment
+1261,Pyramid Hills - Penthouse
+1262,Pyramid Hills  - Apartment
+1263,Pyramid Hills - Apartment
+1264,Pyramid  Hills  - Apartment
+1265,Pyramid HIlls - Apartment
+1266,Pyarmid Hills  - Penthouse
+1267,Pyramid Hills - Townhouse
+1268,Pyramid Hills - Townhouse
+1269,Pyramid Hills - Twinhouse
+1270,Swan Lake - 3 Bedrooms First
+1273,Swan Lake - Standard Chalet
+1274,Swan Lake - Twinvilla
+1275,Swan Lake - Standard Chalet
+1276,Swan Lake - Premium Chalet
+1277,Swan Lake - Standard Chalet
+1278,Swan Lake - Twin villa
+1279,Swan Lake - Villa D
+1280,Swan Lake - Premium Chalet
+1281,Swan Lake - Standard Chalet
+1282,Swan Lake - Premium Chalet
+1283,Swan Lake - Twinvilla
+1284,Swan Lake - Villa D
+1285,West Hills - Penthouse
+1286,Hyde Park - Townhouse Corner
+1287,Stella Di Mare - Villa B
+1288,Fourteen Golf Residence - Apartment
+1290,Marina  - Penthouse
+1292,The Address - 2 Bedrooms
+1293,Victoria - Villa Type B
+1294,Verona  - Villa Type A
+1295,Verona  - Villa Type B
+1296,Lustica Bay - Studio
+1297,Lustica Bay - Apartment
+1298,Lustica Bay - Apartment
+1299,Lustica Bay - Apartment
+1300,Lustica Bay - Townhouse Type 1
+1301,Lustica Bay - Townhouse Type 2
+1302,Lustica Bay - Townhouse Type 3
+1303,Lustica Bay - Townhouse Type 4
+1304,Um Jamar - Small Villa
+1305,Um Jamar - Big Villa
+1306,El Patio 5 East - Quarter Villa
+1307,Scarab - Apartment
+1308,TERENCIA - VILLA TYPE 18
+1310,Uptown Cairo Levana - Twinhouse
+1311,Parks Phase II - Apartment
+1312,Park Phase II - Apartment
+1313,Eastown Parks - Apartment
+1314,Parks Phase II - Apartment
+1315,Parks Phase II - Duplex
+1316,Park Phase II - Duplex
+1318,Mivida Boulevard - Apartment
+1320,Chillout Park - Standalone
+1321,PK Extension - Twinhouse
+1322,PK Extension - Townhouse
+1324,El Patio Casa - Apartment
+1325,El Patio Casa - Apartment Ground
+1327,Executive Residence Giza Plateau - I Villa
+1328,Executive Residence Giza Plateau - I Villa
+1329,Marina 5 - Villa
+1330,Golf Resort - Apartment
+1331,Catania - Chalet
+1332,Telal Sokhna - Twinhouse
+1333,Park Corner 2 -Luxury Apartment
+1334,Park Corner 2 - Luxury Apartment
+1335,Park Corner 2 - Family House
+1336,Park Corner 2 - Duplex
+1337,Park Corner 2 - Duplex
+1338,Park Corner 2 - Duplex
+1339,Park Corner 2 - Duplex
+1340,Park Corner 2 - Apartment
+1341,Park Corner 2 - Apartment
+1342,Park Corner 2 - Apartment
+1343,Park Corner 2 - Apartment
+1344,Park Corner 2 - Apartment
+1345,Park Corner 2 - Apartment
+1346,Parks Phase II - Duplex
+1347,Parks Phase II - Duplex
+1348,Parks Phase II - Duplex
+1349,Parks Phase II - Duplex
+1350,La Vista Bay - Villa
+1351,La Vista Bay - Chalet 4th Row
+1352,La Vista Bay - Chalet Ground
+1353,La Vista Bay - Chalet 1st Row
+1354,La Vista Bay - Chalet Ground
+1355,Fouka Bay - Chalet
+1356,Fouka Bay - Chalet
+1357,Fouka Bay - Chalet
+1358,Fouka Bay - Chalet
+1359,Pyramids Heights - Suburb Villa
+1361,Soleya - Apartment First Floor
+1362,Soleya - Apartment Ground Floor
+1364,The Fourteen Golf - Apartment
+1366,The Village - Penthouse
+1367,Casa - Apartment
+1368,Golf Extension - Twinhouse
+1369,Golf Extension - Townhouse
+1370,Golf Extension - Villa Type E
+1371,Golf Extension - Villa Type M
+1372,Hacienda Bay - Chalet Golf
+1374,Hacienda Bay - Villa
+1375,Hacienda Bay - Villa
+1376,Hacienda Bay - Villa
+1377,Hacienda Bay - Villa
+1378,Hacienda Bay - Villa Garden View
+1379,Hacienda Bay - Villa
+1380,Hacienda Bay - Lagoon Villa
+1381,Palm Hills Katameya Extension - Townhouse Middle
+1382,Palm Hills Katameya Extension - Townhouse corner
+1383,Palm Hills Katameya Extension - Twinhouse
+1385,Palm Hills Katameya Extension - Villa Type Y1
+1386,Palm Parks - Penthouse
+1387,Palm Parks - Penthouse
+1388,Palm Parks - Penthouse
+1389,Palm Parks - Duplex
+1390,Palm Parks - Apartment
+1391,Palm Parks - Apartment
+1392,Palm Parks - Apatrment
+1393,Palm Valley - Townhouse Corner
+1394,Palm valley - Townhouse Corner
+1395,Palm Valley - Twinhouse
+1396,Palm Valley - Twinhouse
+1397,Palm Valley - Villa
+1398,WoodVille - Townhouse corner Type O
+1399,WoodVille - Townhouse Middle Type O
+1400,Woodville - Townhouse Middle
+1401,Woodville  - Townhouse Corner Type P
+1402,Woodville Phase 2 - Townhouse Middle
+1403,Joulz - Apartment Type A&B
+1404,Joulz - Apartment Type K
+1405,Joulz - Apartment Type L
+1406,Joulz - Apartment Type H
+1407,Joulz - Apartment Type E
+1408,Joulz - Apartment Type J
+1409,Joulz - Twinhouse Type A&E
+1410,Joulz - Twinhouse Type C&D
+1411,Joulz - Twinhouse Type G1
+1412,Joulz - Twinhouse Type G2
+1413,Joulz - Townhouse Type A&B Corner
+1414,Joulz - Townhouse Type A&B Middle
+1415,Joulz - Townhouse Type C Middle
+1416,Joulz - Townhouse
+1417,Joulz - Villa Type A
+1418,Joulz - Villa Type B
+1419,Joulz - Villa Type B
+1420,Joulz - Villa Type C
+1421,Joulz - Villa Type D
+1422,Joulz - Villa Type E&F
+1423,Celesta - Townhouse
+1424,Celesta - townhouse
+1425,Palm Valley - Townhouse Corner
+1426,Celesta - Villa
+1427,Celesta - Villa
+1428,Celesta - Villa
+1429,The Views 2 - Villa
+1430,The Views 2 - Villa
+1431,Ancient Sands - Apartment
+1432,The Views 2 - Villa
+1433,Avenues - Townhouse
+1434,Lake View Residence - Apartment
+1435,Marina Phase II - Apartmnt
+1436,Marina Phase II - Apartment
+1437,Mangroovy Beach - Townhouse
+1438,IL MONTE GALALA - Studio
+1439,IL MONTE GALALA - Chalet
+1440,IL MONTE GALALA - Villa V4B
+1441,IL MONTE GALALA - Villa V2
+1442,IL MONTE GALALA - Villa V1
+1443,IL MONTE GALALA - Chalet
+1444,IL MONTE GALALA - Chalet
+1445,IL MONTE GALALA - Chalet B
+1446,Laguna Bay - Twinhouse
+1447,Laguna Bay - Stand Alone Villa
+1448,Anicent Sands Golf Resort - Apartment Type E & D
+1449,Ancient Sands Golf Resort - Townhouse Type F
+1450,Sarai - Apartment C2
+1451,SARAI - Apartment C1
+1452,Sarai - Apartment C2
+1453,Sky Condos 1 - Apartment
+1454,Sky Condos - Apartment
+1455,Sky Condos 1 - Penthouse
+1456,Sky Condos 1 - Duplex
+1457,Pyramids Hills - Standalone Villa
+1458,G Cribs - Studio
+1459,Fouka Bay - Twinhouse
+1460,Marina Phase II - Apartment
+1461,Marina Phase II - Apartment
+1462,Marina West - Apartment
+1463,Jefaira - Villa Sea Front
+1464,Jefaira - Villa Type A
+1465,Jefaira - Villa Type C
+1466,Jefaira - Twinhouse
+1467,Jefaira - Chalet 3 Bedrooms
+1468,Jefaira - Chalet + Roof Type A
+1469,Jefaira - Chalet Ground Floor Type B
+1470,Jefaira - Chalet B + Roof
+1471,Jefaira - Chalet 2 Bedroom
+1472,Jefaira - Condos Ground Floor
+1473,Jefaira - Condos First Floor
+1474,Jefaira - Condos Secound Floor
+1475,Jefaira - Condos Third Floor
+1476,The Crown - Villa Type A
+1477,The Crown - Villa Type B
+1478,The Crown - Villa Type C
+1479,The Crown Phase 2 - Villa Type D
+1480,The Crown - Twinhouse
+1481,Ancient Sands Golf Resort - Apartment
+1482,Ancient Sands Golf Resort - Apartment
+1483,Ancient Sands Golf Resort - Apartment
+1484,Ancient Sands Golf Resort - Apartment
+1485,Ancient Sands Golf Resort - Apartment
+1486,Ancient Sands Golf Resort - Apartment
+1487,Ancient Sands Golf Resort - Aparmtent
+1488,Palm Hills New Cairo - Villa Type A
+1489,Palm Hills New Cairo - Villa Type B
+1490,Palm Hills New Cairo - Villa Type C
+1491,Paln Hills New Cairo - Villa Type C
+1492,Palm Hills New Cairo - Villa Type D
+1493,Palm Hills New Cairo - Ville Type E3
+1494,Capital Garden - Apartment + Garden
+1495,Capital Garden 1 - Apartment + Garden
+1496,Capital Garden - Apartment + Garden
+1497,Capital Garden - Duplex + Garden
+1498,Capital Garden - Apartment
+1499,Capital Garden - Apartment
+1500,Capital Garden - Apartment
+1501,Capital Garden 1 - Apartment
+1502,Capital Garden - Apartment
+1503,Palm Hills Katameya - Coconut Villa
+1504,Sky Condos - Duplex + Garden
+1507,Hyde Park - Morera Villa
+1508,Hyde Park - Townhouse
+1509,Hyda Park - Twinhouse
+1510,Hyde Park - Villa
+1511,Palm Hills New Cairo - Twinhouse
+1512,Sky Condos - Apartment
+1513,Fanadir Bay - Villa
+1514,Scarb El-Gouna - Apartment Ground Floor
+1515,Hacienda Bay - Villa Type 2
+1516,Catania - Penthouse C2
+1519,Hyde Park - Apartment
+1520,Telal Sokhna - Villa
+1521,Executive Residence Giza Palteau - I Villa
+1522,IvoryHill - Villa V70
+1523,Westridge - Towhnhouse
+1524,Westridge - Townhouse
+1525,IL MONTE GALALA  - Chalet
+1526,IL MONTE GALALA  -Twinhouse
+1527,IL MONTE GALALA - Villa V1W
+1528,The Fourteen - Duplex
+1529,The Fourteen - Duplex
+1530,The Views 1 - Villa
+1531,Boulevard - Apartment 3 Bedroom
+1532,Boulevard - Apartment 3 Bedroom
+1533,Blulevard - Apartment 3 Bedroom
+1534,Parkside Crescent - Apartment
+1535,Parkside Crescent - Apartment
+1536,Parkside Crescent - Apartment
+1537,Woodville - Villa Type I
+1538,Palm Katameya - Villa Y 2
+1539,Golf Extension - Townhouse
+1540,Palm Hills Katameya  - Townhouse Corner
+1541,Sky Condos - Apartment Ground Floor
+1542,Sky Condos - Apartment Ground Floor
+1543,Sky Condos - Apartment
+1544,Sky Condos - Apartment
+1545,Sky Condos - Apartment
+1546,Sky Condos - Duplex + Garden
+1547,Sky Condos - Duplex + Garden
+1548,October Plaza - Apartment
+1549,Waterside - Apartment
+1550,Waterside - Apartment
+1551,Waterside - Apartment
+1552,Waterside - Apartment
+1553,Waterside - Duplex
+1554,Waterside - Apartment + Roof
+1555,Waterside - Apartment + Roof
+1556,Eastown Residence - Penthouse
+1558,Mountain View One - Villa
+1559,Kai Sahel - Villa First Row
+1560,Kai Sahel - Twinhouse 2nd row
+1561,Kai Sahel - Twinhouse
+1562,Kai Sahel - Chalet Typical
+1563,Kai Sahel - Chalet Typical
+1566,Coast 82 - Small Villa
+1567,Coast 82 - Large Villa
+1568,Coast 82 - Medium Villa
+1569,Coast 82 - Twin Villa
+1570,Coast 82 - Prime Chalet
+1571,Coast 82 - Standard Chalet
+1573,Fouka Bay - Chalet
+1574,Fouka Bay - Chalet Typical
+1575,Fouka Bay - Chalet Ground
+1576,Fouka Bay - Twinhouse
+1579,Fouka Bay - Twinhouse
+1581,Fouka Bay - Villa Second Row
+1582,Fouka Bay - Villa First Row
+1584,Kai Sahel - Villa Separate B
+1585,Kai Sahel - Villa Third Row
+1586,Kai Sahel - Villa Fourth Row
+1587,Kai Sahel - Townhouse
+1588,Kai Sahel - Townhouse
+1589,Kai Sahel - Chalet Ground
+1590,Kai Sahel - Chalet Ground
+1591,Arezzo - Villa
+1593,Salerno - Vila V16
+1594,Salerno - Villa V16R
+1595,Salerno - Vila V17
+1596,Salerno - Twinhouse
+1597,Salerno - Twinhouse
+1598,Salerno - Villa V16
+1599,Salerno - Villa V16 Mirror
+1600,Salerno - Villa V17
+1601,Salerno - Twinhouse
+1602,Salerno - Twinhouse
+1603,Greek - Townhouse TH 11
+1604,Greek - Townhouse TH 12
+1605,Greek - Townhouse TH
+1606,Greek - Townhouse TH
+1607,Sabina - Twinhouse
+1609,Sabina - TwinVilla
+1613,La Vista - Villa First Row
+1619,La Vista - Twinhouse Second Row
+1620,La Vista - Chalet Ground
+1621,La Vista - Chalet First
+1622,La Vista - Twinhouse - First Row
+1623,La Vista - Villa Second Row
+1624,Eastown - Duplex Roof
+1625,La Vista Bay - Chalet First
+1626,La vista Bay - Twinhouse 1st Row
+1627,La vista Bay - Twinhouse 1st Row
+1628,La vista Bay - Twinhouse 2nd Row
+1629,Lake View - Apartment
+1631,Lake View - Apartment
+1632,Park Corner - Villa
+1634,Jefaira - Chalet D
+1635,Jefaira - Chalet D
+1636,Jefaira - Chalet C
+1637,Jefaira - Chalet E + Garden
+1638,Jefaira - Chalet E
+1639,Jefaira - Villa D
+1640,Celia - V6
+1641,Celia - V7
+1642,Ein Hills - Apartment
+1643,Celia - V18
+1644,Celia - V18-R
+1645,GREEK - TOWNHOUSE TH 11
+1646,GREEK - TOWNHOUSE TH 13
+1647,Greek - Townhouse TH 15
+1648,Greek - Townhouse TH 12
+1649,Mangroovy - Apartment TF
+1650,Mangroovy - Apartment TF
+1651,Mangroovy - Apartment FF
+1652,Mangroovy - Apartment TF
+1654,Mangroovy - Apartment FF
+1655,Mangroovy - Apartment TF
+1658,Apartment - 2 Bedrooms with Garden
+1659,Apartment - 2 Bedrooms
+1660,Apartment - 3 Bedrooms with Garden
+1661,Apartment - 3 Bedrooms
+1662,Apartment - 4 Bedrooms with Garden
+1663,Apartment - 4 Bedrooms
+1664,Apartment - 4 & 5 Bedrooms
+1665,Abu Tig Hill - Penthouse
+1666,Sky Condos Phase II - Apartment
+1667,Sky Condos - Apartment + Garden
+1668,Sky Condos - Apartment
+1669,Sky Condos Phase II - Apartment
+1670,Sky Condos Phase II - Apartment + Garden
+1671,Sky Condos - Apartment
+1672,Sky Condos - Duplex + Garden
+1673,Sky Condos Phase II - Duplex
+1674,Sky Condos Phase II -  Penthouse
+1675,Sky Condos Phase II - Townhouse
+1676,Sky Condos Phase II - Twinhouse
+1677,Sky Condos Phase II - Apartment
+1678,Sky Condos Phase II - Apartment
+1679,Sky Condos Phase II - Apartment
+1680,Sky Condos Phase II - Apartment + Garden
+1681,Sky Condos Phase II - Apartment
+1682,Sky Condos Phase II - Apartment + Garden
+1683,Sky Condos Phase II - Penthouse
+1684,Sky Condos Phase II - Duplex + Garden
+1685,Sky Condos Phase II - Duplex
+1686,Sky Condos Phase II - Townhouse
+1687,Sky Condos Phase II - Twinhouse
+1688,Sarai - Apartment
+1689,Azha - Twin Chalet
+1690,IL Monete Galala - Chalet
+1691,Azha - Twin Chalet
+1692,Azha - Twin Chalet
+1693,Azha - Townhouse
+1694,Acamar 2 - Chalet
+1695,Acamar 2 - Chalet
+1696,Sky Condos Phase II - Apartmnet
+1697,Sky Condos Phase II - Apartment
+1698,Sky Condos Phase II - Aparmtnet
+1699,Sky Condos Phase II - Apartment
+1700,Sky Condos Phase II - Apartment
+1701,Sky Condos Phase II - Apartment
+1702,Sky Condos Phase II - Apartment
+1703,Sky Condos Phase II - Apartment
+1704,Sky Condos - Duplex+Roof
+1705,Sky Condos Phase II - Duplex
+1706,Park Corner - Villa
+1707,IL Bosco - Apartment
+1708,IL Bosco - Apartment Ground
+1709,Il Bosco - Villa
+1710,Il Bosco - Villa
+1711,IL Bosco - Twinhouse
+1712,IL Bosco - Apartment
+1713,IL Bosco - Apartment
+1714,IL Bosco - Apartment Ground
+1715,IL Bosco - Apartment
+1716,IL Bosco - Apartment Ground
+1717,IL Bosco - Apartment
+1718,IL Bosco - Apartment Prime location
+1719,IL Bosco - Apartment
+1720,IL Bosco - Apartment
+1721,Maesta - Villa V3
+1722,Maesta - Twinhouse
+1723,Maesta - Chalet R
+1724,Maesta - Chalet R Ground
+1725,Maesta - Chalet Q
+1726,Maesta - Chalet Q Ground
+1727,Sky Condos Phase II - Apartment
+1728,Lake Front - Apartment
+1729,Lake Front - Apartment
+1730,Lake Front - Apartment
+1731,Lake Front - Apartment
+1732,Lake Front - Apartment
+1733,Lake Front - Apartment
+1734,Twin Villa
+1735,Lake View - Apartment
+1737,Lake View - Apartment + Garden
+1738,Lake View - Apartment
+1739,Lake View - Apartment
+1740,Lake View - Apartment
+1741,Lake View - Penthouse
+1742,Lake View - Apartment
+1745,Lake View - Apartment
+1746,AZHA- Standalone Villa
+1747,Lucina- Townhouse
+1748,Pavo - Chalet
+1749,Pavo - Chalet Garden
+1750,Acamar 2 - Chalet Garden
+1751,Westridge - Villa
+1752,Westridge - Villa
+1753,Parcel - Apartment
+1754,The Selection - Flow Villa
+1755,Sarai - Villa S Type A
+1756,Mountain View - Villa Type B
+1757,Village Garden - Apartment
+1758,PK1 - Standalone Villa
+1759,Oriana - Villa V2 Walkout Basement
+1760,Oriana - Villa V3 Walkout Basement
+1761,Oriana - Villa V1B
+1762,Festival - Apartment
+1763,Festival - Duplex
+1764,Festival - Apartment
+1765,Festival - Penthouse
+1766,Taj City - Villa C
+1767,La Rose - Apartment
+1768,Mivida - Apartment
+1769,Shalya Taj City - Apartment
+1770,Zizinia - Standalone Villa
+1771,Il Monte - Chalet
+1772,Water Villa + Cabana
+1773,Woodville - Townhouse
+1774,PK1 - Villa
+1775,Jewar - Apartment
+1776,Sodic East - MV Villa
+1777,Sodic East - SV Villa
+1778,Sodic East - XV Villa
+1779,Sodic East - LV Villa
+1780,Sodic East - TwinHouse
+1781,Sodic East - Townhouse Corner
+1782,Sodic East - Townhouse Middle
+1783,Sodic East - Townhouse Corner
+1784,Shalya Taj City - Apartment SV
+1785,Shalya Taj City - S Villa
+1786,Shalya Taj City - S Villa Twin
+1787,Lake View - Apartment
+1788,Hacienda Bay - Chalet Ground
+1789,The Village Gate - Penthouse
+1790,New Marina - Apartment Ground
+1791,Westown - Duplex
+1792,The Village Gate - Penthouse
+1793,Villette - Standalone Villa
+1794,The Square - Apartment
+1795,Taj City - Twin Villa A
+1796,Fountainside - Apartment
+1797,Fountainside - Apartment
+1798,Fountainside - Penthouse
+1799,Golf Extension - Twinhouse
+1800,Golf Extension - Villa Type E
+1801,Golf Extension - Villa Type M
+1802,Golf Views - Twinhouse AA
+1803,Golf Views - Twinhouse B
+1804,Golf Views - Twinhouse A
+1805,Golf Views - Villa A
+1806,Golf Views - Villa N1
+1807,Golf Views - Villa N2
+1808,Hacienda Bay - Water Villa V14
+1809,Hacienda Bay - Water Villa
+1810,Hacienda Bay - Villa Type 11
+1811,Hacienda Bay - Villa Type 15
+1812,Palm Hills New Cairo - Apartment
+1813,Palm Hills New Cairo - Villa Type E
+1814,Palm Hills New Cairo - Villa Type C
+1815,Kai Sokhna - Standalone Villa
+1816,Kai Sokhna - Pool Deck Chalet
+1817,Kai Sokhna - Pool Deck Chalet
+1818,Kai Sokhna - Senior Chalet
+1819,Sabina - Apartment Ground
+1820,Sabina - Apartment Ground
+1821,Sabina - Apartment First
+1822,Sabina - Apartment First
+1823,Sabina - Apartment Second
+1824,Sabina - Apartment Second
+1825,Fifth Square - Standalone Villa
+1826,Fifth Square - Twinhouse
+1827,Fifth Square - Townhouse
+1828,Fifth Square - Apartment Typical
+1829,Fifth Square - Apartment Standard
+1830,Fifth Square - Apartment + Roof
+1831,Fifth Square - Apartment Greenery + Roof
+1832,Fifth Square - Apartment Greenery + Roof
+1836,Hacienda West - Chalet 3in1
+1837,Hacienda West - Chalet 3in1
+1838,Hacienda West - Junior Chalet
+1839,Hacienda West - Junior Chalet
+1840,Hacienda West - Senior Chalet
+1841,Hacienda West - Prime Chalet
+1842,Hacienda West - Senior Chalet
+1843,Hacienda West - Senior Chalet
+1844,Hacienda West - Twinhouse
+1845,Hacienda West - Villa Type 1
+1846,Hacienda West - Villa Type 2
+1847,Hacienda West - Villa Type 3
+1848,Hacienda West - Villa Type 4
+1849,The Crown - Family Home Apartment
+1850,The Crown - Family Home Penthouse
+1852,Shalya Taj City - Apartment Ground
+1853,Shalya Taj City - S Villa
+1854,Taj City - Standalone Villa
+1855,Taj City - Duplex
+1856,Taj City - Townhouse C
+1857,Taj City - Penthouse
+1858,Abusoma Reef - Villa
+1859,Golf Extension - Twinhouse
+1860,Palm Parks - Apartment
+1861,Hacienda White - Villa
+1862,Marassi Catania - Apartment
+1863,Eastown - Apartment
+1864,Palm Hills October - Villa
+1865,Amberville - Studio
+1866,Amberville - Apartment
+1867,Amberville - Apartment
+1868,Amberville - Apartment
+1869,Amberville - Duplex
+1870,Goldcliff - Twinhouse
+1871,Goldcliff - Townhouse
+1872,District One - MANSION
+1873,Mountain View iCity - Park Villa
+1874,Mountain View iCity - Apartment
+1875,HAPTown - Hassan Allam Mostakbal City - Villa B
+1877,The Capital Way - The Waterway New Capital - Apartment
+1878,The Capital Way - The Waterway New Capital - Apartment Ground
+1879,The Capital Way - The Waterway New Capital -  Apartment
+1880,Hyde Park Business District - Office First
+1881,Hyde Park Business District - Office Ground
+1882,Hyde Park Business District - Office Ground
+1883,Hyde Park  - Apartment
+1884,Mivida business district - Office A
+1885,Mivida business district - Office B
+1886,Lake Front - Apartment
+1887,AEON - Penthouse
+1888,AEON - Apartment + Garden
+1889,AEON - Apartment
+1890,Apartment Typical - Bloomfields Tatweer Misr Mostakbal City
+1891,Palm Hills Alexandria - Apartment
+1892,Capital Garden 2 - Apartment + Garden
+1893,Capital Garden 2 - Duplex + Garden
+1894,Capital Garden 2 - Apartment
+1902,Trio Gardens - QUATRO STANDARD
+1903,Trio Gardens - QUATRO LARGE
+1904,Palm Valley - Townhouse
+1905,Hyde Park Business District - Office Second
+1906,Hyde Park Business District - Office First
+1907,Hyde Park Business District - Office Second
+1908,Hyde Park Business District - Office Third
+1909,Hyde Park Business District - Office
+1910,Hyde Park Business District - Office Fifth
+1911,AZAD - Apartment A Ground
+1912,AZAD - Apartment A Typical
+1913,AZAD - Penthouse A
+1914,AZAD - Apartment B Ground
+1915,AZAD - Apartment B Ground
+1916,AZAD - Apartment Typical
+1917,AZAD - Apartment Typical
+1918,AZAD - Penthouse B
+1919,AZAD - Penthouse B
+1920,AZAD - Apartment Ground
+1921,AZAD - Apartment D Typical
+1922,AZAD - Penthouse D
+1923,Tawila - Apartment
+1924,Tawila - Apartment
+1925,Tawila - Duplex
+1926,Park View - Penthouse
+1927,Palm Hills New Cairo - Standalone Villa C
+1930,Ivory Hill - Townhouse
+1931,Palm Valley - Twinhouse
+1932,Palm Hills New Cairo - Apartment Garden
+1933,Palm Hills New Cairo - Apartment Garden
+1934,Palm Hills New Cairo - Apartment Garden
+1935,Palm Hills New Cairo - Apartment Typical
+1936,Palm Hills New Cairo - Apartment Typical
+1937,Palm Hills New Cairo - Apartment Typical
+1938,Palm Hills New Cairo - Twinhouse
+1939,El Patio Oro - Apartment Garden
+1940,Surf Village - Standalone Villa
+1941,Surf Village - Twinhouse
+1942,El Patio Oro - Apartment Typical
+1944,El Patio Oro - Apartment Typical
+1945,El Patio Oro - Apartment Typical
+1946,El Patio Oro - Apartment Garden
+1947,El Patio Oro - Duplex
+1948,El Patio Oro - Penthouse
+1949,Avenues Residences - Apartment
+1950,Avenues Residences - Apartment
+1951,Avenues Residences - Apartment
+1952,AEON - Penthouse
+1953,AEON - Apartment + Garden
+1954,Palm Parks - Apartment
+1955,Galleria - Apartment C
+1956,Galleria - Apartment C + Garden
+1957,Galleria - Penthouse C
+1958,Galleria - Penthouse C
+1959,Sun Capital - Duplex
+1960,Sun Capital - Penthouse
+1961,Sun Capital - Villa Standalone
+1962,Sun Capital - Apartment
+1963,Sun Capital - Apartment
+1964,Shalya Taj City - Apartment Ground
+1965,Shalya Taj City - Apartment QV
+1966,Shalya Taj City - Q Villa
+1967,Shalya Taj City - Q Villa
+1968,Capital Gate - Apartment
+1969,Capital Gate - Duplex
+1970,Capital Gate - Penthouse
+1971,Capital Gate - Apartment + Garden
+1972,Park View - Apartment
+1974,The Capital Way - The Waterway New Capital - Duplex Ground
+1975,The Greek Village - Apartment
+1976,The Greek Village - Apartment
+1977,The Greek Village - Apartment
+1978,The Greek Village - Apartment
+1979,Marassi Marina - Penthouse
+1980,Mivida Parkside - Villa V20
+1981,Mivida Parkside - Townhouse TH6
+1982,Mivida Springs - Townhouse TH6
+1983,Al Rabwa - Standalone Villa
+1984,Tawila - Villa Type E
+1985,Tawila - Villa Type A
+1986,Joubal Views - TwinVillas
+1991,Joubal Lagoon - Apartment
+1992,Joubal Lagoon - Apartment
+1993,Mivida - Townhouse
+1994,Village Garden - Apartment
+1996,HAPTown - Hassan Allam Mostakbal City - Twinhouse
+1997,HAPTown - Hassan Allam Mostakbal City - Townhouse
+1998,HAPTown - Hassan Allam Mostakbal City - Villa A
+1999,AEON Towers - Apartment
+2000,AEON Towers - Apartment
+2001,AEON Towers - Apartment
+2002,Carnell - Townhome
+2006,West Hills - Apartment
+2007,West Hills - Duplex
+2008,PK1 - Standalone Villa
+2009,IL Bosco - Twinhouse
+2010,IL Bosco - Standalone Villa
+2011,IL Bosco - Exquisite Villa
+2012,Chalet - Ein Bay
+2014,Sun Capital - Apartment + Garden
+2015,Sun Capital - Apartment + Garden
+2016,Sun Capital - Penthouse
+2017,Sun Capital - Penthouse
+2018,Hyde Park - Villa
+2020,Sarai - Apartment
+2021,Eastown Commercial - Office Ground
+2022,Eastown Commercial - Office First
+2023,Eastown Commercial - Office Fourth
+2024,Eastown Commercial - Office Second
+2025,Eastown Commercial - Office Third
+2026,Penthouse - Bloomfields Tatweer Misr Mostakbal City
+2027,Duplex Garden - Bloomfields Tatweer Misr Mostakbal City
+2028,Apartment Garden - Bloomfields Tatweer Misr Mostakbal City
+2029,Marina West - Apartment
+2030,South Apartments - Apartment Type 1
+2031,South Apartments - Apartment Type 2
+2032,South Apartments - Apartment Type 3
+2033,Fouka Bay - TwinChalet
+2034,Verona  - Villa
+2035,Apartment - 2 Bedrooms
+2036,Golf Extension - Villa Type A
+2037,Ancient Sands - Villa Type 2
+2038,Ancient Sands - Villa Type 1
+2039,Ancient Sands - Villa Type 3
+2040,Ancient Sands - Twinhouse
+2042,Pavo - Chalet
+2043,VIDA - Apartment B1
+2044,VIDA - Apartment B2
+2045,VIDA - Duplex
+2046,VIDA - Townhouse
+2047,VIDA - Twinhouse
+2048,Odyssia - Apartment
+2049,Odyssia - Apartment
+2050,Odyssia - Townhouse Middle
+2051,Odyssia - Townhouse Corner
+2052,Odyssia - Twinhouse
+2053,Trio Gardens - QUATRO STANDARD
+2054,Aria - Apartment A2 Ground
+2055,Aria - Apartment A2 Typical
+2056,Aria - Apartment A5 Ground
+2057,Aria - Apartment A5 Ground
+2058,Aria - Apartment A5 Typical
+2059,Aria - Apartment A5 Typical
+2060,Al Burouj - Townhome
+2061,Al Burouj - Townhome
+2062,Al Burouj - Apartment + Garden
+2063,Al Burouj - Apartment + Garden
+2064,Al Burouj - Apartment
+2065,Al Burouj - Apartment
+2066,Al Burouj - Penthouse
+2067,Al Burouj - Villa Type 1
+2068,Al Burouj - Villa Type 2
+2069,Al Burouj - Duplex Lower
+2070,Al Burouj- Duplex Typical
+2071,Capital Garden 2 - Apartment
+2073,Apartment Garden - Bloomfields Tatweer Misr Mostakbal City
+2074,Apartment Typical - Bloomfields Tatweer Misr Mostakbal City
+2075,La Vista Ray - Penthouse
+2076,La Vista Ray - Chalet First
+2077,La Vista Ray - Penthouse
+2078,La Vista Ray - Townhouse Middle
+2079,La Vista Ray - Twinhouse
+2080,The Waterway North Coast - Villa Type A
+2081,The Waterway North Coast - Villa Type B
+2082,AZAD - Apartment B
+2083,The Waterway North Coast - Villa Type C
+2084,The Waterway North Coast - Townhouse D
+2085,La Vista Bay - Chalet First
+2086,La Vista Bay - Chalet Ground
+2087,Sodic East - Twin House
+2088,The Capital Way - The Waterway New Capital - Duplex Roof
+2089,The Waterway North Coast - Chalet
+2090,DI5TRICT - Apartment
+2091,DI5TRICT - Townhouse
+2092,Spectrum - Apartment
+2093,Spectrum - Apartment
+2094,DI5TRICT - Apartment
+2095,Badya - Villa Type A
+2096,Badya - Villa Type B
+2097,Badya - Apartment Typical
+2098,Badya - Apartment Typical
+2099,Badya - Apartment Garden
+2100,Badya - Apartment Garden
+2101,Badya - Penthouse
+2102,Badya - Apartment Typical
+2103,Badya - Penthouse
+2104,Badya - Twinhouse Small
+2105,Badya - Twinhouse Large
+2106,Jefaira - SeaCliff Villa 1
+2107,Jefaira - Seacliff Villa 2
+2108,Jefaira - Seacliff Villa 3
+2109,Jefaira - Seacliff Villa 4
+2110,Jefaira - Seacliff Villa 5
+2111,Jefaira - Seacliff Villa 6
+2112,El Patio Prime - Standalone Villa
+2113,El Patio Prime - Twinhouse
+2114,El Patio Prime - Townhouse
+2115,El Patio Prime - Quadro
+2116,El Patio Casa - Penthouse
+2117,La Vista Ray - Townhouse Corner
+2118,La Vista Ray - Townhouse
+2119,La Vista Ray - Chalet Ground
+2120,La Vista Ray - Chalet First
+2121,The Greek Village - Apartment
+2122,The Greek Village - Apartment
+2123,The Greek Village - Apartment
+2125,Hyde Park - Twinhouse
+2126,Kai Sokhna - Pool Deck Chalet
+2127,VIDA - Penthouse
+2128,Oriana - Villa V2B
+2129,Oriana - Villa V3B
+2130,Address East - Duplex Garden
+2131,Address East - Apartment Ground
+2132,Address East - Apartment Ground
+2133,Address East - Apartment Typical
+2134,Alma - Family House
+2135,Alma - Twinhouse
+2136,Alma - Twinhouse
+2137,ATRIO - Separate Villa
+2138,ATRIO - Twinhouse
+2139,ATRIO - Twinhouse
+2140,JEDAR - Duplex
+2141,JEDAR - Villa VP
+2142,JEDAR - Villa SP
+2143,JEDAR - Villa VS
+2144,North Edge Towers New Alamein - Apartment
+2146,Salerno - Villa V16 Mirror
+2147,Salerno - Villa V17
+2148,Fouka Bay - Chalet CH3 Typical
+2149,Fouka Bay - Chalet CH3 Ground
+2150,Westown - Penthouse 3 Bedrooms
+2151,El Masyaf - Standalone Villa
+2152,El Masyaf - Twinhouse
+2153,El Masyaf - Family House
+2154,El Masyaf - Chalet Ground
+2155,El Masyaf - Chalet Typical
+2156,El Masyaf - Beach Front Villa
+2157,El Masyaf - Chalet Typical
+2158,SIX WEST - Apartment Typical
+2159,SIX WEST - Apartment Typical
+2160,SIX WEST - Apartment Ground
+2161,SIX WEST - Apartment Ground
+2162,SIX WEST - Penthouse
+2163,SIX WEST - Penthouse
+2167,Marina Marassi - Apartment
+2171,Marina Marassi - Apartment
+2172,Caesar - Standalone Chalet
+2173,North Edge Towers New Alamein - Apartment
+2174,North Edge Towers New Alamein - Apartment
+2175,North Edge Towers New Alamein - Apartment
+2176,North Edge Towers New Alamein - Apartment
+2184,Jubail - Villa Standalone
+2185,Hacienda Bay - Cabin
+2186,The Quayside - Villa Attached
+2187,The Quayside - Twinhouse
+2188,The Quayside - Chalet
+2189,Katameya Coast - Chalet Penthouse
+2190,Katameya Coast - Chalet Typical
+2191,Katameya Coast - Chalet Ground
+2192,Katameya Coast - Villa One Story
+2193,Katameya Coast - Villa Standalone
+2194,Katameya Coast - Villa Standalone Type 2
+2195,Katameya Coast - Twinhouse
+2196,The Loft - Cozy
+2197,Katameya Coast - luxury Villa Type 1
+2198,Katameya Coast - luxury Villa Type 2
+2199,Katameya Coast - luxury Villa Type 3
+2200,Zoya - Villa One Floor
+2201,Zoya - Villa Standalone
+2202,Zoya - Senior Twinhouse
+2203,Zoya - Junior Twinhouse
+2204,Zoya - Chalet Ground
+2205,Zoya - Chalet First
+2206,Zoya - Chalet Second
+2207,The Loft - Junior Apartment
+2208,The Loft - Senior Apartment
+2209,The Loft - Panoramic Apartment
+2210,The Loft - Corner Apartment
+2211,The Loft - Sky Penthouse
+2212,The Loft - Duplex Garden
+2213,Malaaz - Ground Chalet
+2214,Malaaz - First Chalet
+2215,Malaaz - Townhouse Right
+2216,Malaaz - Townhouse Left
+2217,Malaaz - Twinhouse
+2218,Malaaz - Villa Standalone Small
+2219,Malaaz - Villa Standalone Large
+2220,Malaaz - Villa Type A
+2221,Malaaz - Villa Type B
+2222,Malaaz - Villa Sea Front
+2223,Park View - Penthouse
+2224,Hacienda White - Senior Chalet
+2231,Cavana Lakes - Villa Type A
+2232,Cavana Lakes - Villa Type B
+2233,Cavana Lakes - Villa Type C
+2234,Cavana Lakes - Twinhouse
+2235,Cavana Lakes - Townhouse
+2236,Kai Sahel - Twinhouse
+2237,Ivory lagoon - Townhouse
+2238,Ivory lagoon - Twinhouse
+2239,Ivory lagoon  - Villa Separate C
+2240,Sabina - Townhouse
+2241,Verona - Twinhouse
+2242,Lagoon - Apartment Ground
+2243,Lagoon - Apartment Ground
+2244,Lagoon - Apartment Typical
+2245,Lagoon - Apartment Typical
+2246,VIDA Marassi - Hotel Apartment
+2247,VIDA Marassi - Hotel Apartment
+2248,Etapa - Grand Villa
+2249,Etapa - Standard Villa
+2250,Etapa - Twin Villa
+2251,Etapa - Townhouse
+2252,Etapa - Mansio Townhouse
+2253,Etapa - Duplex
+2254,VIDA Marassi - Hotel Apartment
+2255,Pali - Kala Villa
+2256,Pali - Sila Townhouse
+2257,Pali - Palma Chalet
+2258,Pali - Okila Chalet
+2259,Pali - Palma Chalet
+2261,City Stars - Villa 1
+2262,City Stars - Villa 2
+2263,City Stars - Villa 3
+2264,City Stars - Twinhouse 1
+2265,City Stars - Twinhouse 2
+2266,City Stars - Townhouse
+2267,City Stars - Twin Chalet
+2268,City Stars - Apartment Ground
+2269,City Stars - Apartment
+2270,City Stars - Neymar Chalet
+2271,Zahya New Mansoura - Duplex 1 Tower B
+2272,Zahya New Mansoura - Duplex 2 Tower B
+2273,Zahya New Mansoura - Apartment 24th Floor Tower B
+2274,New Mansoura - Standalone Villa
+2275,New Mansoura - Townhouse
+2276,New Mansoura - Twinhouse
+2277,Cyan - Townhouse
+2278,Cyan - Villa Type A
+2279,Cyan - Villa Type B
+2280,Cyan - Villa Type C
+2281,Cyan - Villa Type D
+2282,Layan - Villa
+2283,Katameya Coast - Villa
+2284,Hyde Park - Townhouse
+2285,Mivida Parcel 3 - Villa
+2286,El Patio 6 - Villa
+2287,Sky Condos - Penthouse
+2288,El Patio Zahraa - Twinhouse
+2289,Marassi Verdi - Penthouse
+2291,Vinci - Apartment
+2297,Zahya New Mansoura - 2 Bedroom Apartment Tower B
+2298,Zahya New Mansoura - 3 Bedroom Apartment Tower B
+2299,Zahya New Mansoura - 3 Bedroom Apartment Tower A
+2300,Zahya New Mansoura - 2 Bedroom Apartment Tower A
+2301,Vinci - Iconic Villa
+2302,Vinci - Townhouse
+2303,Vinci - Twinhouse
+2305,Zahya New Mansoura - Villa Classic
+2306,Zahya New Mansoura - Townhouse
+2307,Zahya New Mansoura - Twin House
+2308,Zahya New Mansoura - Twin Villa Classic
+2309,Zahya New Mansoura - Twin Villa Classic 2
+2310,Zahya New Mansoura - Townhouse Classic
+2311,Zahya New Mansoura - Townhouse Classic 2
+2312,Zahya New Mansoura - Villa Modern
+2313,Zahya New Mansoura - Villa Modern 2
+2314,Zahya New Mansoura - Townhouse Modern
+2315,Zahya New Mansoura - Townhouse Modern 2
+2316,Zahya New Mansoura - Twin Villa Modern
+2317,Zahya New Mansoura - Twin Villa Modern 2
+2318,Bay 7 - Villa Type 1
+2319,Bay 7 - Villa Type 2
+2320,Bay 7 - Villa Type 3
+2321,Bay 7 - Villa Type 4
+2322,Bay 7 - Villa Type 5
+2323,Bay 7 - Villa Type 6
+2324,Bay 7 - Villa Type 7
+2325,Axis - Apartment
+2327,Axis - Duplex
+2328,La Fontaine Province - Penthouse
+2330,El Patio 5 - Villa
+2331,Hyde Park - Apartment Type A
+2332,Sun Capital - Family House
+2333,Sun Capital - Townhouse Corner
+2334,Sun Capital - Townhouse Middle
+2335,O West - Orascom - Apartment
+2336,Sarai - Apartment
+2337,O West - Orascom - Townhouse
+2338,O West - Orascom - Twinhouse
+2339,O West - Orascom - Villa A
+2340,O West - Orascom - Villa B
+2342,O West - Orascom - Villa  C
+2343,The Ridge Villas - Villa
+2347,The RIDGE Villas - Townhouse
+2348,The RIDGE Villas - Twinhouse
+2349,Vinci - Apartment
+2350,Vinci - Penthouse
+2351,Vinci - Villa A
+2352,Vinci - Villa B
+2353,Vinci - Villa C
+2354,Prive - Apartment
+2355,Prive - Penthouse
+2356,Prive - Apartment+Nanny
+2357,Prive - Apartment
+2358,Prive - Apartment+Garden
+2359,Mountain View - Stand Alone Villa
+2360,Prive - Apartment
+2361,Seashell - Chalet Horizon
+2362,Prive - Penthouse
+2363,Prive - Apartment+Nanny
+2364,Prive - Apartment
+2365,Prive - Apartment+Garden
+2366,Capital Garden - Apartment
+2367,Axis - Apartment
+2368,Axis - Apartment
+2369,Axis - Penthouse
+2370,ILMA - Townhouse
+2371,ILMA - Twinhouse
+2372,Badya Phase 2 - Apartment Garden
+2373,Badya Phase 2 - Apartment Typical
+2374,Badya Phase 2 - Penthouse
+2375,Badya Phase 2 - Apartment Typical
+2376,Badya Phase 2 - Apartment Typical
+2377,Badya Phase 2 - Apartment Typical
+2379,DI5TRICT - Apartment
+2380,Al Burouj - Duplex Upper
+2381,Al Burouj - Duplex Typical
+2382,Al Burouj - Twinhouse
+2383,iCity - Apartment
+2384,AZAD - Apartment Typical
+2385,La Vista City - Villa Standalone
+2386,La Vista City - Twinhouse
+2387,La Vista City - Townhouse
+2388,Park Corner 2 - Apartment+Garden
+2389,Park Corner 2 - Luxury Apartment+Garden
+2390,Apartment - 2 Bedrooms+Garden
+2391,Apartment - 4 Bedrooms
+2392,Apartment Garden - Bloomfields Tatweer Misr Mostakbal City
+2393,Apartment Garden - Bloomfields Tatweer Misr Mostakbal City
+2394,Duplex Typical - Bloomfields Tatweer Misr Mostakbal City
+2395,Palm Hills Alexandria - Duplex
+2396,Palm Hills Alexandria - Townhouse
+2397,Palm Hills Alexandria - Twinhouse
+2398,Palm Hills Alexandria - Villa
+2399,Park View - Apartment
+2400,Park View - Apartment
+2401,Park View - Apartment
+2403,Park View - Duplex
+2404,HAPTown - Hassan Allam Mostakbal City - Villa C
